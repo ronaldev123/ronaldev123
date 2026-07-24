@@ -1,7 +1,6 @@
 Olá!, Sou o Ronald 😎
 
-💻 Atuo no desenvolvimento de aplicações backend e web utilizando Python, PHP e JavaScript, com apoio de HTML e CSS para a construção de interfaces e MySQL para banco de dados.
-🧠 Tenho foco em lógica de programação, organização de código, integração com bancos de dados e versionamento com Git, além de manter estudos contínuos em Linux 🐧 e estrutura de redes 🌐.
+Desenvolvedor Full Stack Júnior com foco no desenvolvimento de software utilizando Python, PHP, JavaScript e MySQL. Busco criar soluções organizadas, eficientes e escaláveis, aplicando boas práticas de programação, desenvolvimento de sistemas intuitivos e versionamento com Git, mantendo uma evolução constante em tecnologias e desenvolvimento de software.
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
